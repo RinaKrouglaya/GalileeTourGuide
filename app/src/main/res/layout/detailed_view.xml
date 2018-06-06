@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/card_width"
+    android:layout_height="@dimen/card_height"
+    android:background="@color/card_bg"
+    android:padding="@dimen/overall_padding">
+
+    <Button
+        android:id="@+id/close_button"
+        android:layout_width="@dimen/close_button_size"
+        android:layout_height="@dimen/close_button_size"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/close" />
+
+    <ImageView
+        android:id="@+id/item_large_image"
+        android:layout_width="@dimen/card_image_width"
+        android:layout_height="@dimen/card_image_height"
+        android:layout_below="@id/close_button"
+        android:src="@drawable/attone" />
+
+    <TextView
+        android:id="@+id/item_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_large_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/card_margin"
+        android:text="@string/attraction_one_description"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat"
+        android:textColor="@color/text_color_card" />
+
+    <ImageView
+        android:id="@+id/location_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/internet_icon"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="@dimen/card_margin"
+        android:src="@drawable/locationicon" />
+
+    <TextView
+        android:id="@+id/item_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/item_web_address"
+        android:layout_marginBottom="@dimen/location_margin"
+        android:layout_toRightOf="@id/location_icon"
+        android:text="@string/attraction_one_street_address"
+        android:textColor="@color/text_color_card" />
+
+    <ImageView
+        android:id="@+id/internet_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/web" />
+
+    <TextView
+        android:id="@+id/item_web_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/web_address_margin"
+        android:layout_toRightOf="@id/internet_icon"
+        android:autoLink="web"
+        android:clickable="true"
+        android:focusableInTouchMode="true"
+        android:lines="1"
+        android:linksClickable="true"
+        android:text="@string/attraction_one_www"
+        android:textColorLink="@color/colorPrimaryDark" />
+
+</RelativeLayout>

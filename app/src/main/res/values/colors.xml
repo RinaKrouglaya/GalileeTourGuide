@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Main text color -->
+    <color name="main_text_color">#243d42</color>
+
+
+    <!-- Background color for the Tabs -->
+    <color name="tabs_bg">#9CCC65</color>
+
+    <!-- Background color for the About Galilee category -->
+    <color name="category_about">#F1F8E9</color>
+
+    <!-- Background color for text of the About Galilee category -->
+    <color name="text_bg">#EEEEEE</color>
+
+    <!-- Text color for  the About Galilee category -->
+    <color name="text_color_about">#311B92</color>
+
+    <!-- Background color for the attractions category -->
+    <color name="category_attractions">#cce6bb</color>
+
+    <!-- Background color for the food category -->
+    <color name="category_food">#f5f49d</color>
+
+    <!-- Background color for the wine category -->
+    <color name="category_wine">#ebd2ec</color>
+
+    <!-- Background color for the card (detailed view) -->
+    <color name="card_bg">#F1F8E9</color>
+
+    <!-- Text color for  the the card (detailed view)  -->
+    <color name="text_color_card">#3E2723</color>
+
+
+</resources>

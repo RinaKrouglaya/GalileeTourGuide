@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name">GalileeTourGuide</string>
+
+    <string name="about_tab">About Galilee</string>
+    <string name="attractions_tab">Attractions</string>
+    <string name="food_tab">Food</string>
+    <string name="wine_tab">Wine</string>
+
+
+    <string name="about_text">Welcome to the Galilee - one of the most beautiful regions of Israel.
+        Situated in the north of the country, it is characterized by its beautiful lush landscape
+        with agriculture, amazing natural landforms, historic sites, and quaint rural villages.
+        Galilee is a popular destination for domestic and foreign tourists who enjoy its scenic,
+        recreational, and gastronomic offerings. The Galilee attracts many Christian pilgrims,
+        as many of the miracles of Jesus occurred, according to the New Testament, on the shores
+        of the Sea of Galilee. In addition, numerous sites of biblical importance are located
+        in the Galilee, such as Megiddo, Jezreel Valley, Mount Tabor, Hatsor and more.
+</string>
+
+
+    <!-- Attraction 1 -->
+    <string name="attraction_one_title">Kfar Kedem - Ancient village experience</string>
+    <string name="attraction_one_description">Kfar Kedem creates a holistic experience using all
+        your senses, involving you in the actual production of household staples such as milk, wool,
+        and bread, and connecting these tangible experiences with the values and spirit of
+        the ages from the time of the Bible.
+
+       </string>
+    <string name="attraction_one_www">https://www.k-k.co.il/en/?lang=en</string>
+    <string name="attraction_one_street_address">Kfar Kedem, Hoshaya, 1791500</string>
+    <string name="attraction_one_location">
+        "https://www.google.com/maps?q=Kfar+Kedem+Hoshaya+Israel"</string>
+
+    <!-- Attraction 2 -->
+    <string name="attraction_two_title">Kfar Blum Kayaks - rafting experience and attraction
+        center</string>
+    <string name="attraction_two_description">Come join us on a magical river adventure,
+        comfortably rafting by and under riverside foliage, down the beautifully clear
+        Hatzbani stream, later merging with the Banias stream to create the Jordan River,
+        on which our rafting adventure continues.
+       </string>
+    <string name="attraction_two_www">https://www.kayaks.co.il/english/</string>
+    <string name="attraction_two_street_address">Kfar Blum Kayaks, Beit Hillel</string>
+    <string name="attraction_two_location">
+        "https://www.google.com/maps?q=Kfar+Blum+Kayaks+Beit Hilel+Israel"</string>
+
+    <!-- Attraction 3 -->
+    <string name="attraction_three_title">Karmiel Quarry Galilee Park - Beautiful nature, sculptures
+        and installations</string>
+    <string name="attraction_three_description">Karmiel Quarry Galilee Park - A beautiful park with
+        interesting features such
+        as a waterfall, rose garden, amphitheatre, a musical site with bird songs, many sculptures
+        and artworks.
+       </string>
+    <string name="attraction_three_www">
+       https://goo.gl/maps/ccxK8XTxz692</string>
+    <string name="attraction_three_street_address">Eshkolot St.  Karmiel</string>
+    <string name="attraction_three_location">
+        "https://www.google.com/maps?q=Galilee+Park+Eshkolot+Karmiel+Israel"</string>
+
+    <!-- Attraction 4 -->
+    <string name="attraction_four_title">Monkey Forest - An Educational Animal Sanctuary</string>
+    <string name="attraction_four_description">Monkey Forest -an educational animal sanctuary
+        inside a forest. Animals, shade of the oak trees, fountains, quiet meditation spots.
+        </string>
+    <string name="attraction_four_www">http://www.kofim.co.il/home</string>
+    <string name="attraction_four_street_address">Yodfat, 2018000, Doar Na Misgav</string>
+    <string name="attraction_four_location">
+        "https://www.google.com/maps?q=Monkey+Forest+Yodfat+Israel"</string>
+
+    <!-- Attraction 5 -->
+    <string name="attraction_five_title">Manara Cliff - Xtreme park with chairlift and
+        alpine slide</string>
+    <string name="attraction_five_description">Manara Cliff is Israel\'s leading adventure park,
+        a home for lovers of extreme sports, nature and hiking.
+        The beauty of the Upper Galilee and Naphtali Ridge, spread out in all its glory
+        and strength, is yours to enjoy from every attraction at Manara Cliff, creating
+        a powerful emotional experience.
+        </string>
+    <string name="attraction_five_www">http://www.cliff.co.il/</string>
+    <string name="attraction_five_street_address">Tzuk Manara, Manara</string>
+    <string name="attraction_five_location">
+        "https://www.google.com/maps?q=Tzuk+Manara+Manara+Israel"</string>
+
+    <!-- Attraction 6 -->
+    <string name="attraction_six_title">The Agamon Hula Ornithology
+        and Nature Park</string>
+    <string name="attraction_six_description">The Agamon Hula  - is a highly significant and
+        prominent center for eco-tourism in Israel and throughout the world, and a model
+        for cooperation between nature, tourism and agriculture.
+        Thousands of migrating birds remain here during
+        the winter, and other choose to nest here during the spring and summer.
+        </string>
+    <string name="attraction_six_www">http://www.agamon-hula.co.il/?lang=en_US</string>
+    <string name="attraction_six_street_address">Agamon HaHula Park</string>
+    <string name="attraction_six_location">
+        "https://www.google.com/maps?q=Agamon+Hula+Park+Israel"</string>
+
+    <!-- Attraction 7 -->
+    <string name="attraction_seven_title">Boat ride on the Sea of Galilee</string>
+    <string name="attraction_seven_description">The Ein Gev harbor  - picturesque lakeside promenade
+        overlooking the Sea of Galilee in Israel and the Golan Height
+        Activities on the water – cruises, Galilee tours, fishing and more.
+        </string>
+    <string name="attraction_seven_www">
+        http://eingev.co.il/en/kinneret-attractions/the-ein-gev-harbor/</string>
+    <string name="attraction_seven_street_address">Kibbuts Ein Gev</string>
+    <string name="attraction_seven_location">
+        "https://www.google.com/maps?q=Ein+Gev+Kibbuts+Israel"</string>
+
+    <!-- Attraction 8 -->
+    <string name="attraction_eight_title">Tabgha - Holy Christian place</string>
+    <string name="attraction_eight_description"> Tabgha ("spring of seven") - a place of the miracle
+        of the multiplication of the loaves and fishes (Mark 6:30-46) and the fourth resurrection
+        appearance of Jesus(John 21:1-24) after his Crucifixion.
+        </string>
+    <string name="attraction_eight_www">https://www.bibleplaces.com/tabgha/</string>
+    <string name="attraction_eight_street_address">Tabgha,The Beatitude Monastery</string>
+    <string name="attraction_eight_location">
+        "https://www.google.com/maps?q=Tabgha+Ein+Sheva+Israel"</string>
+
+    <!-- Attraction 9 -->
+    <string name="attraction_nine_title">The Church of the Annunciation</string>
+    <string name="attraction_nine_description">The Church of the Annunciation is a church
+        in Nazareth. It was established over the site where the Catholic tradition holds
+        to be the house of Virgin Mary, and where angel Gabriel appeared to her and announced
+        that she would conceive and bear the Son of God, Jesus – an event known as the Annunciation.
+
+        </string>
+    <string name="attraction_nine_www">
+        http://www.seetheholyland.net/church-of-the-annunciation/</string>
+    <string name="attraction_nine_street_address">Basilica of the Annunciation, Nazareth</string>
+    <string name="attraction_nine_location">
+        "https://www.google.com/maps?q=Basilica+of+Annunciation+Israel"</string>
+
+    <!-- Attraction 10 -->
+    <string name="attraction_ten_title">Church of Transfiguration</string>
+    <string name="attraction_ten_description">Church of Transfiguration - Mountaintop Catholic
+        church built on 4th century foundations, known for its views and mosaics. The site is thick
+        with ruins of Christian occupation in the Byzantine and Crusader periods (5th-6th centuries
+        and 12th-13th centuries respectively).
+        </string>
+    <string name="attraction_ten_www">http://www.transfigurationpittsford.org/</string>
+    <string name="attraction_ten_street_address">Church of Transfiguration, Kfar Tavor</string>
+    <string name="attraction_ten_location">
+        "https://www.google.com/maps?q=Church+of+Transfiguration+Kfar+Tavor+Israel"</string>
+
+    <!-- food 1 -->
+    <string name="food_one_title">Ahim Abu Salach - Oriental Restaurant‬</string>
+    <string name="food_one_description">Oriental Restaurant, Hummus and meat.
+        </string>
+    <string name="food_one_www">http://www.abusalah.co.il/</string>
+    <string name="food_one_street_address">Abu Salah Restaurant, Amiad Junction</string>
+    <string name="food_one_location">
+        "https://www.google.com/maps?q=אבו+סאלח+Restaurant+Amiad+Israel"</string>
+
+    <!-- food 2 -->
+    <string name="food_two_title">Benny\'s Nature - Vegan Restaurant</string>
+    <string name="food_two_description">Benny\'s Nature - Vegan Restaurant
+        - "Under the shadow of a fig tree"
+        </string>
+    <string name="food_two_www">https://www.bennysnature.com/</string>
+    <string name="food_two_street_address">Benny\'s Nature, Amiad</string>
+    <string name="food_two_location">
+        "https://www.google.com/maps?q=Vegan+Restaurant+Amiad+Israel"</string>
+
+    <!-- food 3 -->
+    <string name="food_three_title">Basarella - Steakhouse</string>
+    <string name="food_three_description">Basarella - grill, burgers, steakhouse
+        </string>
+    <string name="food_three_www">http://www.basarela.co.il/</string>
+    <string name="food_three_street_address">Basarella, Maale Kamun st, 6, Karmiel</string>
+    <string name="food_three_location">
+        "https://www.google.com/maps?q=Basarela+Karmiel+Israel"</string>
+
+    <!-- food 4 -->
+    <string name="food_four_title">Magdalena - Chef Restaurant</string>
+    <string name="food_four_description">Magdalena - chief restaurant.
+        </string>
+    <string name="food_four_www">https://www.magdalena.co.il/magdalena-en/</string>
+    <string name="food_four_street_address">Migdal Junction, Road 90, Migdal</string>
+    <string name="food_four_location">
+        "https://www.google.com/maps?q=Magdalena+Migdal+Road+90+Israel"</string>
+
+    <!-- food 5 -->
+    <string name="food_five_title">Adelina - Chef Restaurant</string>
+    <string name="food_five_description">Adelina - chef restaurant.
+        </string>
+    <string name="food_five_www">http://www.adelina.org.il/</string>
+    <string name="food_five_street_address">Adelina Restaurant, Kibbutz Kabri</string>
+    <string name="food_five_location">
+        "https://www.google.com/maps?q=Adelina+Kabri+Israel"</string>
+
+    <!-- food 6 -->
+    <string name="food_six_title">Pizza Niro - Vegan Choices</string>
+    <string name="food_six_description">Pizza Niro - vegan and gluten free choices
+        </string>
+    <string name="food_six_www">https://www.facebook.com/pg/niropizza/about/?ref=page_internal</string>
+    <string name="food_six_street_address">Pizza Niro, Maayan Barukh</string>
+    <string name="food_six_location">
+        "https://www.google.com/maps?q=פיצה+נירו+מתחם+גן הצפון+Israel"</string>
+
+    <!-- food 7 -->
+    <string name="food_seven_title">Dag al ha Dan - River Fish Restaurant</string>
+    <string name="food_seven_description">The " Dag al haDan" restaurant is a pleasant and
+        quiet place in nature. The clean and clear air and the pastoral tranquility combine
+        with the sound of the stream. There is a rich selection of fresh fish grown
+        right here in the fish ponds adjacent to the restaurant.
+         </string>
+    <string name="food_seven_www">http://www.dagaldan.co.il/en/Restaurant.html</string>
+    <string name="food_seven_street_address">Dag al ha Dan, Kibbuts Dan</string>
+    <string name="food_seven_location">
+        "https://www.google.com/maps?q=Dag+al+ha+Dan+Dan+Israel"</string>
+
+
+    <!-- food 8 -->
+    <string name="food_eight_title">Aluma Bistro - French Chef Restaurant</string>
+    <string name="food_eight_description">On the rural country road, with pine hills, tobacco fields
+        and Galilean landscape spread just outside the window Aluma restaurant has a table ready
+        for you. The restaurant serves Galilean cuisine composed of ethnic ingredients with an added
+        European touch,all made into carefully composed dishes with flavors to remember.
+         </string>
+    <string name="food_eight_www">http://www.alumabistro.co.il/Aluma+Bistro.html</string>
+    <string name="food_eight_street_address">Aluma Bistro, Alon St 16, Ma\'alot Tarshiha </string>
+    <string name="food_eight_location">
+        "https://www.google.com/maps?q=Aluma+bistro+Maalot+tarshiha+Israel"</string>
+
+    <!-- Wine 1 -->
+    <string name="wine_one_title">Lotem Organic Winery</string>
+    <string name="wine_one_description">Lotem Organic Winery located at the beautiful view
+        overlooking all Galilee. The winery became a combination of uncompromising quality of
+        winemaking, quality organic grape vineyard near Kibbutz Tzivon Meron and unique
+        energetic processes such as music playback on any production line and obsolescence.
+        </string>
+    <string name="wine_one_www">http://lotemwinery.co.il/?page_id=80</string>
+    <string name="wine_one_street_address">Industrial Zone, Klil 7, Lotem</string>
+    <string name="wine_one_location">
+        "https://www.google.com/maps?q=Lotem+Winery+Klil+7+Industrial+Zone+Lotem+Israel"</string>
+
+    <!-- Wine 2 -->
+    <string name="wine_two_title">Rimon Winery - pomegranate wine</string>
+    <string name="wine_two_description">The pomegranates used at the Rimon Winery
+        thrive in the basalt-rich soil that is typical of this special region, and give this wine
+        its special characteristic flavor and color.
+               </string>
+    <string name="wine_two_www">http://rimonwinery.com/english/wine-1.html</string>
+    <string name="wine_two_street_address">Rimon Winery Visitors Center, Dalton</string>
+    <string name="wine_two_location">
+        "https://www.google.com/maps?q=Rimon+Winety+Visitors+Center+Dalton+Industrial+Zone+
+        Israel"</string>
+
+    <!-- Wine 3 -->
+    <string name="wine_three_title">Netofa Winery </string>
+    <string name="wine_three_description">The Netofa Winery offers elegant,
+        old-world-type fine wines exemplified by smooth body and complex bouquets and flavors.
+        The Netofa Winery\'s vineyards, planted on the soil of Lower Galilee,
+        feature an array of varieties, whose compatibility
+        with the terroir maximizes the qualities and characteristics of the grapes.
+        </string>
+    <string name="wine_three_www">http://www.netofa.com/en/home#!menu</string>
+    <string name="wine_three_street_address">Netofa Winery, Mitspe Netofa</string>
+    <string name="wine_three_location">
+        "https://www.google.com/maps?q=Netofa+Winary+Mitspe++Netofa+Israel"</string>
+
+    <!-- Wine 4 -->
+    <string name="wine_four_title">Abouhav Winery </string>
+    <string name="wine_four_description">The Abouhav Winery is nestled among the quaint Old City
+        lanes of  Safed, in an historic 16th century structure. It is a boutique winery, producing
+        about 25,000 bottles a year.Most bottles are exported to private clients around the world
+        or sold at the winery.The wine is made in an old traditional unique method.
+        </string>
+    <string name="wine_four_www">http://www.abouhav-winery.com/</string>
+    <string name="wine_four_street_address">Simtat Abuhav, Tsfat</string>
+    <string name="wine_four_location">
+        "https://www.google.com/maps?q=Abouhav+Winery+Simtat+Abouhav+Tsfat+Israel"</string>
+
+    <!-- Wine 5 -->
+    <string name="wine_five_title">Yiftah’el Winery</string>
+    <string name="wine_five_description">Yiftah’el winery in Alon Hagalil is owned by a
+        third generation of farmers. The vineyards are spread over
+        the southern slopes of the Zippori river. On its reach and red limestone soil are grown
+        five varieties of wine grapes: Cabernet sauvignon, Merlot, Shiraz, Sangiovese
+        and Petit syrah.
+        </string>
+    <string name="wine_five_www">http://www.yfw.co.il/en/</string>
+    <string name="wine_five_street_address">Yiftah’el Winery, Alon Ha-Galil</string>
+    <string name="wine_five_location">
+        "https://www.google.com/maps?q=Yiftahel+Winery+Alon+Ha-Galil+1792000+Israel"</string>
+
+    <!-- Wine 6 -->
+    <string name="wine_six_title">Ramot Naftaly Winery</string>
+    <string name="wine_six_description">The Ramot Naftaly winery is located in Kedesh Valley,
+        a unique area where quality wine grapes have grown since ancient times. The winemaker,
+        Yitzhak Cohen, dreamt of founding a small, high-quality, family-run winery. Since he
+        began making his own wine in 2003, the winery has received acclaim and many awards.
+        </string>
+    <string name="wine_six_www">http://www.ramotnaftaly.com/</string>
+    <string name="wine_six_street_address">Ramot Naftaly Winery, Moshav Ramot Naftaly</string>
+    <string name="wine_six_location">
+        "https://www.google.com/maps?q=Ramot+Naftaly+Winery+Moshav+Ramot+Naftaly+13830+Israel"</string>
+
+    <!-- Wine 7 -->
+    <string name="wine_seven_title">Dalton Winery</string>
+    <string name="wine_seven_description">Nestled in the heart of the Galilee, Dalton Winery
+        is a gem that derives its excellence from the skills of its people and the natural gifts
+        of its surroundings. Established in 1995 by father and son Mat and Alex Haruni,
+        the two identified the potential of the Upper Galilee, envisioning it as a
+        premium wine producing region.
+        </string>
+    <string name="wine_seven_www">http://www.dalton-winery.com/en/</string>
+    <string name="wine_seven_street_address">Dalton Winery, Dalton</string>
+    <string name="wine_seven_location">
+        "https://www.google.com/maps?q=Dalton+Winery+Dalton+Industrial+Zone+Israel"</string>
+</resources>

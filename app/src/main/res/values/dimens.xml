@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="overall_padding">16dp</dimen>
+    <dimen name="list_padding">6dp</dimen>
+
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="location_margin">32dp</dimen>
+    <dimen name="web_address_margin">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="list_item_avatar_size">88dp</dimen>
+    <dimen name="list_item_height">100dp</dimen>
+    <dimen name="list_item_padding_left">16dp</dimen>
+
+     <dimen name="tabs_max_width">0dp</dimen>
+
+    <dimen name="card_width">300dp</dimen>
+    <dimen name="card_height">500dp</dimen>
+    <dimen name="close_button_size">30dp</dimen>
+
+    <dimen name="card_image_width">300dp</dimen>
+    <dimen name="card_image_height">200dp</dimen>
+</resources>
