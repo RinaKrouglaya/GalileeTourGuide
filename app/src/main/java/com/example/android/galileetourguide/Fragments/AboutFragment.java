@@ -15,7 +15,7 @@ import com.example.android.galileetourguide.R;
 public class AboutFragment extends Fragment {
 
     public AboutFragment() {
-        // Required empty public constructor
+        // Required empty public constructor 
     }
 
     @Override
